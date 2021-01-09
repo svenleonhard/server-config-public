@@ -12,4 +12,4 @@ jhipster:
 eureka:
   client:
     service-url:
-      defaultZone: http://admin:${jhipster.registry.password}@jhipster-registry:8761/eureka/
+      defaultZone: {cipher}4611bd53d7627ebc0176d935a9f604d50774c2f590d2a975102ff67533b1014b5740f5aa994ad7afa0dc2aa22897aefdbd34946c7f68b25a24d1191fcd87e72fb640969fc56d69a80a8f1b3641fac7686f94fc2a84e22ebb8b9ae1ab49a8a698
