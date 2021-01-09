@@ -11,7 +11,7 @@ jhipster:
   security:
     authentication:
       jwt:
-        base64-secret: {cipher}d49b72af5d06d623da408b44c4f0493ae93d4297e505aa44f9a9af4f275b86aa0e877b98b5b4107b7f58fc5ecd20d49f8c1f3f9d00f809581fca4ba3c84e7b475891d32b656095d7d291aafb4b5d5b44a483d425004a719e5598e54753a39752ead3b04dc17cf8d7d7ad85a34439c00b3e540e0af3785285910ff6badd95472141f17164c484768ef71de51261fbdd9bbea221cd734454504c3aaf8e11fd5c7a0e21c708d37d51ce1c0e7ccb46ecc63e72380491b23fadccd2e626ad711e50d4
+        base64-secret: bXktc2VjcmV0LWtleS13aGljaC1zaG91bGQtYmUtY2hhbmdlZC1pbi1wcm9kdWN0aW9uLWFuZC1iZS1iYXNlNjQtZW5jb2RlZAo=
 
 
 # Enable /management/logfile endpoint for all apps
